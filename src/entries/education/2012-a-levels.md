@@ -1,7 +1,6 @@
 ---
-title: A-Levels
-organization: Saint Ipsum High School
-location: Graz, AT
-start: 2004-09-01
-end: 2012-07-01
+title: SSLC 
+organization: Rasakondalar Matriculation School
+location: Coimbatore, Tamil Nadu
+end: 2012-04-10
 ---
