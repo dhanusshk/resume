@@ -38,6 +38,7 @@
     "npm-run-all": "^4.1.5",
     "spellchecker": "^3.7.0",
     "svg-sprite": "^1.5.0",
+    "lodash": ">=4.17.19",
     "webpack": "^4.42.1"
   },
   "devDependencies": {
