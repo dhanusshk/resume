@@ -1,12 +1,12 @@
 {
-    "name": "Anna Quincey",
-    "occupation": "Front-End Developer",
-    "location": "Vienna, AT",
+    "name": "DhaanusshKumar",
+    "occupation": "Software Developer",
+    "location": "Coimbatore, Tamil Nadu, IN",
     "avatar": "avatar.jpg",
-    "pronouns": "she/her",
-    "email": "anna.quincey@gmail.com",
-    "telephone": "+01 23 456 789",
-    "website": "https://annaquincey.dev",
+    "pronouns": "he/his",
+    "email": "dhanussh07@gmail.com",
+    "telephone": "+91 7010 740 261",
+    "website": " Building",
     "skills": [
         "HTML",
         "CSS",
@@ -17,28 +17,28 @@
     ],
     "languages": [
         {
-            "name": "English",
+            "name": "Tamil",
             "level": "native"
         },
         {
-            "name": "German",
+            "name": "English",
             "level": "fluent"
         },
         {
-            "name": "French",
+            "name": "Telugu",
             "level": "basic"
         }
     ],
     "social": [
         {
             "name": "Github",
-            "user": "@annaquincey",
-            "url": "https://github.com/annaquincey"
+            "user": "@dhanusshk",
+            "url": "https://github.com/dhanusshk"
         },
         {
             "name": "LinkedIn",
-            "user": "AnnaQncy",
-            "url": "https://www.linkedin.com/in/annaquincey"
+            "user": "dhanusshk",
+            "url": "https://www.linkedin.com/in/dhanusshk"
         }
     ]
 }
