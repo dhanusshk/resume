@@ -7,4 +7,4 @@ start: 2019-08-05
 end: 2019-12-18
 ---
 
-Porta non pulvinar neque laoreet suspendisse interdum consectetur libero id. Gravida arcu ac tortor dignissim convallis aenean et. In massa tempor nec feugiat nisl. Sed blandit libero volutpat sed cras ornare arcu dui. Morbi leo urna molestie at. Sapien faucibus et molestie ac feugiat sed lectus.
+Created a prototype for a project and worked in front end development and implemented API using ASP.net

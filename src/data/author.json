@@ -5,7 +5,6 @@
     "avatar": "avatar.jpg",
     "email": "dhanussh07@gmail.com",
     "telephone": "+91 7010 740 261",
-    "website": " Building",
     "skills": [
         "HTML",
         "CSS",
@@ -17,15 +16,15 @@
     "languages": [
         {
             "name": "Tamil",
-            "level": "native"
+            "level": "Native"
         },
         {
             "name": "English",
-            "level": "fluent"
+            "level": "Fluent"
         },
         {
             "name": "Telugu",
-            "level": "basic"
+            "level": "Basic"
         }
     ],
     "social": [

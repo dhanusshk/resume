@@ -3,6 +3,7 @@
         "experience": "Work Experience",
         "education": "Education",
         "skills": "Skills",
+        "project": "Project",
         "languages": "Languages"
     },
     "labels": {
